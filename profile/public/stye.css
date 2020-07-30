@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    background-image: url('https://www.shutterstock.com/th/blog/wp-content/uploads/sites/16/2018/09/13.jpg?w=750');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.page-header{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 40px;
+    
+ 
+   
+}
+
+
+
+.bbb{
+    font-size: 18px;
+}
